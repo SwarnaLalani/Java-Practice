@@ -7,7 +7,7 @@ class IfGoToSchoolOrNot{
 		if (rain==1){
 		System.out.println(" On days it rains, I do not go to school");
 		}else{
-		System.out.println(" On days it is sunny, I go to school");
+		System.out.println(" Though it is not sunny.");
 		}
 	}
 }
